@@ -1,7 +1,9 @@
 [<img src="https://authada.de/wp-content/uploads/2018/04/H_da_logo_fbi-1-1200x480.png" alt="Hochschule Darmstadt" width="350"/>](https://www.h-da.de/ "Hochschule Darmstadt")
 
 🏛 [Fachbereich Informatik](https://fbi.h-da.de/ "Fachbereich Informatik") - [Hochschule Darmstadt](https://www.h-da.de/ "Hochschule Darmstadt")
-<br><br>
+<br>
+
+> :warning: **Note:** This project was developed in the course of a homework for the subject FWE ("Fortgeschrittene Webentwicklung"). This is just a export of the final version. The development took place on the GitLab servers of the Hochschule Darmstadt.
 
 # 🚩 [FWE:](https://obs.fbi.h-da.de/mhb/modul.php?nr=30.2566&sem=20202 "Fortgeschrittene Webentwicklung - Modulbeschreibung") BRETSCH - Your booking system for e-vehicles
 
